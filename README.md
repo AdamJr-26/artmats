@@ -23,7 +23,7 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ### --------------
-![App Screenshot]('/public/imgs/ss-app.png' "app screenshot")
+![App Screenshot](./public/imgs/ss-app.png "app screenshot")
 
 ### `npm run eject`
 
